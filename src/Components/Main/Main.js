@@ -1,11 +1,11 @@
-const Header = () => {
+const Main = () => {
     return (
         <div>
             <div>
-                Header  Ali Ahmadi
+                Main Ali Ahmadi
             </div>
 
         </div>
     )
 }
-export default Header
+export default Main;
